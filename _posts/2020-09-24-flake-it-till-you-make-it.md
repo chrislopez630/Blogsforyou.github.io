@@ -2,7 +2,7 @@
 layout: post
 title: Incarceration
 subtitle: Why is the incarceration rates so high
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/inmates image.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
