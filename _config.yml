@@ -83,16 +83,16 @@ excerpt_length: 50
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "black"
-navbar-text-col: "aqua"
+navbar-col: "aqua"
+navbar-text-col: "green"
 navbar-border-col: "yellow"
-page-col: "aqua"
-text-col: "aqua"
-link-col: "aqua"
-hover-col: "aqua"
-footer-col: "aqua"
-footer-text-col: "aqua"
-footer-link-col: "aqua"
+page-col: "skyblue"
+text-col: "skyblue"
+link-col: "skyblue"
+hover-col: "green"
+footer-col: "green"
+footer-text-col: "green"
+footer-link-col: "green"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
