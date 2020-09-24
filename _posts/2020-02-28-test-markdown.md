@@ -8,7 +8,7 @@ tags:
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+New York has an incarceration rate of 443 per 100,000 people, Which means it locks up more people then other wealthy democracies do. Over the last 5 years the incarceration rates has just rocketed from a handfull of inmates to a whole society of inmates. 
 
 **Here is some bold text**
 
