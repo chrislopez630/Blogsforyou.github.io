@@ -1,14 +1,14 @@
 ---
 layout: post
-title: shoot for the stars aim for the moon
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Incarceration
+subtitle: Why is the incarceration rates so high
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+What is the amount of the different races incarcerated in the past 5 years, which race would you think is the highest? Some Americans would say Police are known for targeting "Black" Americans. Is it true? Whose to say right now maybe they are maybe they are not. But we can tell if there is a pattern in the incarceration to the Black Americans in the United States. 
 
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
