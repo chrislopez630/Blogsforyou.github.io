@@ -12,7 +12,7 @@ New York has an incarceration rate of 443 per 100,000 people, Which means it loc
 
 What is the amount of the different races incarcerated in the past 5 years, which race would you think is the highest? Some Americans would say Police are known for targeting "Black" Americans. Is it true? Whose to say right now maybe they are maybe they are not. But we can tell if there is a pattern in the incarceration to the Black Americans in the United States. lets take a look at what was the incaceration rates from 2015 to 2019.
 
-https://raw.githubusercontent.com/chrislopez630/inmatesinNY.github.io/master/assets/img/incar%20rate%20bar.png
+/assets/img/inar rate bar.png
 
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense tdo know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
 
