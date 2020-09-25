@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Incarceration
-subtitle: Why is the incarceration rates so high
+subtitle: Is the New York inmate rates too high
 cover-img: /assets/img/inmates image.jpg
 thumbnail-img: /assets/img/matrix image.jpg
 share-img: /assets/img/inmates image.jpg
