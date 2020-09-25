@@ -86,7 +86,7 @@ excerpt_length: 50
 navbar-col: "aqua"
 navbar-text-col: "purple"
 navbar-border-col: "yellow"
-page-col: "aqua"
+page-col: "white"
 text-col: "purple"
 link-col: "purple"
 hover-col: "blue"
