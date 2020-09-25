@@ -9,7 +9,7 @@ tags: [books, test]
 ---
 New York has an incarceration rate of 443 per 100,000 people, Which means it locks up more people then other wealthy democracies do.
 
-**Higher Arrest Rates?**
+**High inmate Rates?**
 
 Are blacks more likely to get incarcerated more then any other race? Lets take a look at what are the rates of inmates in the past 5 years, after using sufficiant data from Kaggle "NY Daily Inmates In Custody " i came across something that was very interesting. The amount of inmates from 2015 to 2019 went up by mountains. Then i started thinking what are the inmates in these jail systems, what are their race, what are their age? We all know younger age comes with less maturity and more toubles. Some Americans would say Police are known for targeting “Young Black” Americans roughly in their mid 20's to early 30s. Is it true? Whose to say right now maybe they are maybe they are not. But we can tell if there is a pattern in the incarceration to the Black Americans in the United States. lets take a look at what was the incarceration rates from 2015 to 2019.
 
