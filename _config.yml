@@ -111,7 +111,7 @@ footer-link-col: "purple"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: ""k
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
 #google_analytics: ""
